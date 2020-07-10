@@ -1,0 +1,6 @@
+/Web.Debug.config
+/Web.Release.config
+/bin
+/obj
+/App_Data/BOTdb.mdf
+/App_Data/BOTdb_log.ldf
